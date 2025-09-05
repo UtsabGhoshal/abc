@@ -248,6 +248,18 @@ const bonediBaris: BonediBari[] = [
     area: "Bowbazar",
     mapUrl: "https://maps.app.goo.gl/2XXVzBgZ8wbt8PGc6",
   },
+  {
+    name: "Mahendra Srimani House",
+    location: "Rajabazar",
+    area: "Rajabazar",
+    mapUrl: "https://maps.app.goo.gl/21bxw3cASiWGNCwx9",
+  },
+  {
+    name: "Kundu Bari",
+    location: "Girish Park Area",
+    area: "Girish Park",
+    mapUrl: "https://maps.app.goo.gl/abbSztxUCw3hCKWN9",
+  },
 ];
 
 export default function BonediBaris() {
