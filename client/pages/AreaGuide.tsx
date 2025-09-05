@@ -56,6 +56,7 @@ const areaData: Area[] = [
     zone: "North",
     pandals: [
       { name: "CHALTABAGAN LOHAPATTY" },
+      { name: "CHALTABAGAN D L ROY STREET" },
       { name: "LALABAGAN SARBOJONIN" },
       { name: "LALABAGAN NABANKUR" },
       { name: "SAHITYA PARISHAD" },
