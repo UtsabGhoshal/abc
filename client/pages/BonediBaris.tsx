@@ -187,6 +187,24 @@ const bonediBaris: BonediBari[] = [
     location: "Behala Sakherbazar",
     area: "Behala",
     mapUrl: "https://www.google.co.in/maps/place/SABARNA+ROY+CHOWDHURY+ATTCHALA+BARI/@22.4798771,88.3064281,16z/data=!3m1!4b1!4m6!3m5!1s0x3a027a6626c80eb7:0xc9844e215327f601!8m2!3d22.4798771!4d88.3064281!16s%2Fg%2F1tgmtpgz?hl=en&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    name: "Narsingha Daw Bari",
+    location: "MG Road Area",
+    area: "Central",
+    mapUrl: "https://maps.app.goo.gl/PUn6M6x2EscAXd2j7"
+  },
+  {
+    name: "Ramgopal Saha Bari Durga Pujo",
+    location: "Bowbazar Area",
+    area: "Bowbazar",
+    mapUrl: "https://maps.app.goo.gl/Lx62H7qgJU2ygXsk7"
+  },
+  {
+    name: "Kalidas Chandra Bari",
+    location: "Bowbazar Area",
+    area: "Bowbazar",
+    mapUrl: "https://maps.app.goo.gl/2XXVzBgZ8wbt8PGc6"
   }
 ];
 
