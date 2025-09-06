@@ -248,6 +248,36 @@ const bonediBaris: BonediBari[] = [
     area: "Bowbazar",
     mapUrl: "https://maps.app.goo.gl/2XXVzBgZ8wbt8PGc6",
   },
+  {
+    name: "Bholanath Dham",
+    location: "Maniktala",
+    area: "Maniktala",
+    mapUrl: "https://maps.app.goo.gl/GSQRoyyMoF4gi2GGA",
+  },
+  {
+    name: "Pataldanga Basu Mallick Family Pujo",
+    location: "MG Road",
+    area: "Central",
+    mapUrl: "https://maps.app.goo.gl/DPJNvUo5wHmc7Avv9",
+  },
+  {
+    name: "Cocola Dey Bari",
+    location: "Sealdah",
+    area: "Sealdah",
+    mapUrl: "https://maps.app.goo.gl/shJfXqtCBaZ98nKv5",
+  },
+  {
+    name: "Kundu Bari",
+    location: "Girish Park",
+    area: "Girish Park",
+    mapUrl: "https://maps.app.goo.gl/ghANHpaEpoF1GDpq5",
+  },
+  {
+    name: "Mahendra Srimani Nibas",
+    location: "Maniktala",
+    area: "Maniktala",
+    mapUrl: "https://maps.app.goo.gl/8VX5BiiAaWiArvbK6",
+  },
 ];
 
 export default function BonediBaris() {
