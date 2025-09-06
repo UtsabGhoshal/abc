@@ -322,7 +322,7 @@ const areaData: Area[] = [
       { name: "41 Pally Club" },
       { name: "Ajeya Sanghati" },
       { name: "Vivekananda Park Athletic Club" },
-      { name: "Athletic Club" }
+      { name: "Athletic Club" },
     ],
   },
 ];
