@@ -315,6 +315,16 @@ const areaData: Area[] = [
       { name: "NABAJAGARAN" },
     ],
   },
+  {
+    name: "HARIDEVPUR",
+    zone: "South",
+    pandals: [
+      { name: "41 Pally Club" },
+      { name: "Ajeya Sanghati" },
+      { name: "Vivekananda Park Athletic Club" },
+      { name: "Athletic Club" }
+    ],
+  },
 ];
 
 export default function AreaGuide() {
